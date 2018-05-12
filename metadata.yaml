@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4795
     wikipedia: http://en.wikipedia.org/wiki/Bronson_Howard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18769#The-Autobiography-of-a-PlayPapers-on-Play-Making-II
 gutenberg_issued: '2006-07-06'
 gutenberg_type: Text
 identifiers:
