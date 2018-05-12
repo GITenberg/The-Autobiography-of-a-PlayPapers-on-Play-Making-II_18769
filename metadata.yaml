@@ -1,0 +1,38 @@
+_repo: The-Autobiography-of-a-PlayPapers-on-Play-Making-II_18769
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Thomas, Augustus
+    birthdate: 1857
+    deathdate: 1934
+    gutenberg_agent_id: '4763'
+    url: http://www.gutenberg.org/2009/agents/4763
+    wikipedia: http://en.wikipedia.org/wiki/Augustus_Thomas
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Howard, Bronson
+    birthdate: 1842
+    deathdate: 1908
+    gutenberg_agent_id: '4795'
+    url: http://www.gutenberg.org/2009/agents/4795
+    wikipedia: http://en.wikipedia.org/wiki/Bronson_Howard
+description: ''
+gutenberg_issued: '2006-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18769'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama -- Technique'
+- !lcc 'PN'
+- !lcsh 'Howard, Bronson, 1842-1908. Banker''s daughter'
+title: 'The Autobiography of a Play
+
+  Papers on Play-Making, II'
+url: http://www.gutenberg.org/ebooks/18769
